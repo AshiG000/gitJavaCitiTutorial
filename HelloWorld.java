@@ -1,7 +1,6 @@
-class HelloWorld{
-public static void main(String[] args){
-
-System.out.println("Hello, World Citi");
+Class HelloWorld(){
+public main(){
+System.out.println("Hi Ashi Here");
 }
 
 }
